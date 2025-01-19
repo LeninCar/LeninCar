@@ -4,8 +4,14 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/lenin-carabali-moreno-20b0151a4/">
+  <a href="https://www.linkedin.com/in/lenin-carabali-moreno-20b0151a4/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lenin_est/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/707095589032296449">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" />
   </a>
 </p>
 
